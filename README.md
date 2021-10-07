@@ -15,3 +15,7 @@ Para crear este tarea lleve a cabo los siguientes pasos:
 - Realicé el commit de los archivos con el comando git commit -m "Ejercicios Git"
 - Agregué la url del repositorio creado en [link](https://github.com/) usando el comando git remote add origin https://github.com/jimalaros/TareasGeek.git
 - Utilizando el comando git push origin master subi los cambios al repositorio existente en la rama master.
+
+### EVIDENCIA
+
+![Prueba](https://github.com/jimalaros/TareasGeek/blob/master/imagenes/Captura.JPG)
